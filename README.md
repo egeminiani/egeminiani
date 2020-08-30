@@ -8,8 +8,9 @@ I am [Elena Geminiani](https://elena.rbind.io/), currently a postdoctoral resear
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=egeminiani&show_icons=true&theme=nightowl&line_height=40&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egeminiani&count_private=true&theme=nightowl">
+ <img src="https://github-readme-stats.vercel.app/api?username=egeminiani&show_icons=true&theme=nightowl&line_height=21&count_private=true">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egeminiani&count_private=true&theme=nightowl&layout=compact">
+ <img src="https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=egeminiani&layout=compact&theme=nightowl">
 
 </p>
 
