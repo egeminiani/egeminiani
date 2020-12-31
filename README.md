@@ -37,7 +37,7 @@
 - :chart_with_upwards_trend: I’m currently working as a business analytics and data science professional at ICONSULTING.
 - :brain: I’m a former postdoctoral researcher in statistics and psychometrics, and a former graduate teaching assistant.
 - :sparkles: I'm passioned for anything statistics and data science, particularly predictive modelling, multivariate analysis, and machine learning.
-- :pencil: Some of personal projects are available at https://elena.rbind.io/projects/
+- :pencil: Some of personal projects are available at https://elena.rbind.io/#projects/
  ---
  
  <!-- <h2 align="center">You can reach me at  </h2> -->
