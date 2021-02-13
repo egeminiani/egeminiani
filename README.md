@@ -37,7 +37,7 @@
 - :chart_with_upwards_trend: I’m currently working as a business analytics and data science professional at ICONSULTING.
 - :brain: I’m a former postdoctoral researcher in statistics and psychometrics, and a former graduate teaching assistant.
 - :sparkles: I'm passioned for anything statistics and data science, particularly predictive modelling, multivariate analysis, and machine learning.
-- :pencil: Some of personal projects are available at https://elena.rbind.io/#projects/
+- :pencil: Some of personal projects are available at https://elena.rbind.io/
  ---
  
  <!-- <h2 align="center">You can reach me at  </h2> -->
@@ -62,16 +62,16 @@
 </p>
 
 
-<h2 align="center">Github Stats:</h2>
+<!-- <h2 align="center">Github Stats:</h2> -->
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=egeminiani&show_icons=true&theme=nightowl&line_height=21&count_private=true">
-</p>
- 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egeminiani&count_private=true&theme=nightowl&layout=compact">
- <img src="https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=egeminiani&layout=compact&theme=nightowl">
-</p>
+<!-- <p align="center"> -->
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=egeminiani&show_icons=true&theme=nightowl&line_height=21&count_private=true"> -->
+<!-- </p> -->
+
+<!-- <p align="center"> -->
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egeminiani&count_private=true&theme=nightowl&layout=compact"> -->
+<!--  <img src="https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=egeminiani&layout=compact&theme=nightowl"> -->
+<!-- </p> -->
  
 
  ---
